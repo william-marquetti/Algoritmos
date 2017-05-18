@@ -12,8 +12,9 @@ public class Classe {
 		
 		long numero1 = 989898989l;
 		int numero2 = 421;
+		long soma = (numero1 + numero2);
 				
-		System.out.println( (numero1 + numero2) );
+		System.out.println( soma );
 	}
 
 }

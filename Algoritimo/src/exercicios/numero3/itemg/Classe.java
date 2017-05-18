@@ -10,8 +10,9 @@ public class Classe {
 		
 		double numero1 = 123.68d;
 		float numero2 = 10.665f;
+		double soma = (numero1 * numero2 );
 		
-		System.out.println( (numero1 * numero2 ));
+		System.out.println( soma );
 		
 	}
 
